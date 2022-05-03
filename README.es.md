@@ -30,7 +30,7 @@ La configuración de la agenda está pensada que se realice mediante el chat hab
 
 ## Para comenzar
 
-### Dependencias
+#### Dependencias
 
 La instalación de las dependencias se encuentra cubierta en `requirements.txt`, sin embargo a continuación se presenta un listado del las librerías "stand-alone" empleadas, las cuales pueden ser instaladas con `pip` una a una:
 
